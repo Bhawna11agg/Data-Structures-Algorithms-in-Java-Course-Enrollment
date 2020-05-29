@@ -1,6 +1,6 @@
 **Girl Code IT - Data Structures and Algorithms Course Assignment**
   **What is it?**
-       You will solve a few questions from the topic Arrays on hackerearth The completion and submission of this assignment is an entry test to join this course and will work as a filter for us to have only sincere students in our course.
+  * You will solve a few questions from the topic Arrays on hackerearth The completion and submission of this assignment is an entry test to join this course and will work as a filter for us to have only sincere students in our course.
 
 **EXRECISE**
 **Topic - 1D ARRAYS**
@@ -18,7 +18,7 @@
 * can-you-solve-it
 
 **Haven't worked with arrays before ? How do I solve this assignment ?**
-If this is the case, you should probably enroll for the basics course whose details can be found here - Basic Java Course
+* If this is the case, you should probably enroll for the basics course whose details can be found here - Basic Java Course
 
 **Submitting your assignment**
 * You shall upload all your solutions to a git repository, and provide it's link in this form.
