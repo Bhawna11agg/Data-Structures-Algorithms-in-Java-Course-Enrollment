@@ -1,5 +1,5 @@
 **Girl Code IT - Data Structures and Algorithms Course Assignment**
-  **What is it?**
+  * **What is it?**
   * You will solve a few questions from the topic Arrays on hackerearth The completion and submission of this assignment is an entry test to join this course and will work as a filter for us to have only sincere students in our course.
 
 **EXRECISE**
