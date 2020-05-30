@@ -38,4 +38,4 @@ There are just 2 Rules
 
 #### [See the course content here](https://github.com/Girl-Code-It/Data-Structures-Algorithms-in-Java-Course-Enrollment/blob/master/CourseContent.md)
 
-#### [To enroll in this course, Refer this](https://github.com/Girl-Code-It/Beginner-Java-Course-Enrollment/blob/master/Assignment.md)
+#### [To enroll in this course, Refer this](https://github.com/Girl-Code-It/Data-Structures-Algorithms-in-Java-Course-Enrollment/blob/master/Assignment.md)
