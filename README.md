@@ -1,4 +1,4 @@
-﻿# Data Struucture and Algorithm in Java
+﻿# Data Structures and Algorithms in Java
 
 ### COURSE METHODOLGY
 
