@@ -2,7 +2,8 @@
   * **What is it?**
   * You will solve a few questions from the topic Arrays on hackerearth The completion and submission of this assignment is an entry test to join this course and will work as a filter for us to have only sincere students in our course.
 
-**EXRECISE**
+* **Link to download JDK: https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html**
+* **EXRECISE**
 **Topic - 1D ARRAYS**
 
 5 Easy Problems:
